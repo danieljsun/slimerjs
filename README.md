@@ -23,6 +23,10 @@ SlimerJS is not only a PhantomJS clone, it contains also [additional features](h
 Technically, SlimerJS is a XUL/JS application that is launched with
 XULRunner (or optionaly with any recent version of Firefox).
 
+```sh
+export SLIMERJSLAUNCHER="/Applications/Firefox.app/Contents/MacOS/firefox"
+```
+
 # Community
 
 Follow us on twitter: [@slimerjs](https://twitter.com/slimerjs)
